@@ -125,7 +125,7 @@ li.dropdown {
   background-color: grey;
   padding: 20px;
   color: white;
-  width:max-content;
+  height: 1850px;
   text-align: left;
   float: left;
   border-color: #272727;
@@ -244,4 +244,8 @@ border-radius: 5px;
 
 #septiana_buttonform:hover {
 background-color: rgb(179, 0, 0);
+}
+
+@media screen and (min-width: 670px) {
+  
 }
